@@ -1,10 +1,9 @@
 === Plugin Name ===
 Contributors: velocityzen
-Donate link: http://example.com/
 Tags: flickr, photo, auto, import
 Requires at least: 3.0.0
 Tested up to: 3.0.1
-Stable tag:
+Stable tag: 0.9
 
 Automatically post your flickr images to wordpress by tags.
 
@@ -18,7 +17,7 @@ Automatically post your flickr images to wordpress by tags.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Fill all fields in settings page
 
-Plugin is checking for new images every 5 minutes.
+Plugin checks for new images every 5 minutes.
 
 
 == Changelog ==
